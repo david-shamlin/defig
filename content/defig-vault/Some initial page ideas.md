@@ -1,6 +1,6 @@
 ---
 title: Some initial page ideas
-draft: true
+draft: false
 tags:
 ---
 - Guide: how to insert a link in a document
