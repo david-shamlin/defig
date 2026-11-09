@@ -29,6 +29,7 @@ tags:
 |     | *Use Emergency SOS*          |                               |                              |                                   |
 |     | *Turn off*                   | *Turn off*                    |                              |                                   |
 |     | *Force restart*              | *Force restart*               |                              |                                   |
+
 # References
 ## iPhone
 
