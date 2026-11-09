@@ -4,7 +4,8 @@ draft: false
 tags:
 ---
 ```dataview
-LIST 
+LIST WITHOUT ID
 FROM "Show-n-tell"
+WHERE file.name != "Show and Tell"
 SORT file.name desc
 ```

@@ -11,10 +11,10 @@ tags:
 | --- | ---------------------------- | ----------------------------- | ---------------------------- | --------------------------------- |
 |     | **Tap**                      | **Tap**                       | **Click**                    | **Click**                         |
 |     | **Touch and hold**           | **Touch and hold**            | **Double-Click**             | **Force click**                   |
-|     | **Swipe**                    | **Swipe**                     | **Right-click or alt-click** | **Secondary click (right-click)** |
+|     |                              |                               | **Right-click or alt-click** | **Secondary click (right-click)** |
 |     |                              |                               | **Press**                    |                                   |
 |     |                              |                               | **Release**                  |                                   |
-|     |                              |                               | **Slide or drag**            |                                   |
+|     | **Swipe**                    | **Swipe**                     | **Slide or drag**            |                                   |
 |     | **Scroll**                   | **Scroll**                    |                              | **Two-finger scroll**             |
 |     | **Zoom**                     | **Zoom**                      |                              | **Pinch to zoom**                 |
 |     | *Go Home*                    | *Go Home*                     |                              | *Swipe to navigate*               |
