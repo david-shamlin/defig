@@ -4,4 +4,5 @@ draft: false
 tags:
 ---
 - [[Core UI Constructs]]
+- [[Gestures]]
 - [[Pre-installed apps]]

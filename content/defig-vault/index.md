@@ -1,5 +1,5 @@
 ---
-title: Table of Contents
+title: Handbook Table of Contents
 draft: false
 tags:
 ---
@@ -10,9 +10,9 @@ tags:
 - [[Digital Literacy]]
 - [[Laws of the Digital Domain]]
 - Part 1
-	- [[Hardware]]
+	- [[Hardware/index]]
 	- [[Data]]
-	- [[Software]]
+	- [[Software/index]]
 - Part 2
 	- [[The Internet]]
 	- [[The Cloud]]
@@ -20,6 +20,6 @@ tags:
 	- [[Navigating]]
 	- [[Security]]
 	- [[Privacy]]
-- Part 4: [[Hands On ToC|Hands On Skills]]
+- Part 4: [[Hands On/index|Hands On Skills]]
 
 
