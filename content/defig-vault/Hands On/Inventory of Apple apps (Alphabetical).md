@@ -1,3 +1,11 @@
+---
+title: Inventory of Apple apps (Alphabetical)
+draft: false
+tags:
+---
+> [!tip]
+> Also see [[Inventory of Apple apps (by Category)]]
+
 - All apps included with Macs are listed on [this help guide page](https://support.apple.com/guide/mac-help/apps-on-your-mac-mchl110b00b7/26/mac/26).
 
 | Icon                             | Name                |                                                iPhone                                                |                                                 iPad                                                  |                                                         Mac                                                          |
@@ -25,7 +33,7 @@
 | ![[facetime.png\|70]]            | FaceTime            |      [Help](https://support.apple.com/guide/iphone/get-started-with-facetime-iphc4774d8d8/ios)       |      [Help](https://support.apple.com/guide/ipad/get-started-with-facetime-ipad0997e101/ipados)       |                                   [Help](https://support.apple.com/guide/facetime)                                   |
 | ![[files.png\|70]]               | Files               |             [Help](https://support.apple.com/guide/iphone/files-basics-iphe9d46e90f/ios)             |             [Help](https://support.apple.com/guide/ipad/files-basics-ipad4aaf0d7f/ipados)             |                                                          x                                                           |
 | ![[find-my.png\|70]]             | Find My             |         [Help](https://support.apple.com/guide/iphone/share-your-location-iph01954dc44/ios)          |       [Help](https://support.apple.com/guide/ipad/get-started-with-find-my-ipad12394520/ipados)       |                                  [Help](https://support.apple.com/guide/findmy-mac)                                  |
-| ![[finder.png\|70]]              | Finder              |                                                  x                                                   |                                                   x                                                   |                                                                                                                      |
+| ![[finder.png\|70]]              | Finder              |                                                  x                                                   |                                                   x                                                   |        [Help](https://support.apple.com/guide/mac-help/organize-your-files-in-the-finder-mchlp2605/26/mac/26)        |
 | ![[font-book.png\|70]]           | Font Book           |                                                  x                                                   |                                                   x                                                   |                                  [Help](https://support.apple.com/guide/font-book)                                   |
 | ![[fitness.jpg\|70]]             | Fitness             |       [Help](https://support.apple.com/guide/iphone/get-started-with-fitness-ipha5dddb411/ios)       |                                                   x                                                   |                                                          x                                                           |
 | ![[freeform.png\|70]]            | Freeform            |      [Help](https://support.apple.com/guide/iphone/get-started-with-freeform-iphb86e84e2b/ios)       |      [Help](https://support.apple.com/guide/ipad/get-started-with-freeform-ipad9c59637d/ipados)       |                                   [Help](https://support.apple.com/guide/freeform)                                   |

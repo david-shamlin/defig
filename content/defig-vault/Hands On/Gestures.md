@@ -7,6 +7,24 @@ tags:
 > Basic gestures: in **bold** in the table below
 > Secondary / convenience gestures: in *italic* in the table below
 
+
+> [!warning]
+> **Explore this reference:** [thedigitalpicklestudio.com](https://www.thedigitalpicklestudio.com/digitallearning/beginners-tidbits-single-clicking-vs-double-clicking?rq=mouse)
+> - https://www.thedigitalpicklestudio.com/digitallearning/beginners-tidbits-what-the-cursor-is-telling-us
+> - https://www.thedigitalpicklestudio.com/digitallearning/beginners-tidbits-single-clicking-vs-double-clicking
+> - home: https://www.thedigitalpicklestudio.com/digitallearning
+
+
+# Basic gesture action types
+
+1. select - i.e., clicking on an object
+2. activate - i.e., clicking on a control
+3. select - i.e., double-click on an object
+4. open -- i.e., double-click on a file (inc'l apps)
+5. open context menu -- i.e., alt-click on an object
+6. move an object via drag-n-drop
+# Basic Gestures
+
 | ??  | iPhone                       | iPad                          | Mouse                        | Touchpad                          |
 | --- | ---------------------------- | ----------------------------- | ---------------------------- | --------------------------------- |
 |     | **Tap**                      | **Tap**                       | **Click**                    | **Click**                         |

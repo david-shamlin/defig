@@ -1,3 +1,9 @@
+
+> [!note] Meeting time & location
+> DESIG meetings are held every other Friday from 1:30 PM to 4:30 PM.
+> 
+> DESIG meetings are held in room A216 in the Erwin Mill building.  Email David at olli.shamlin@gmail.com if you need more detailed information related to meeting room location.
+
 | &nbsp; | Date   | Topic | Handouts |
 | :----: | ------ | ----- | -------- |
 | 1      | Jan 8  |       |          |
